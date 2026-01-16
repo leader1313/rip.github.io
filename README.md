@@ -1,10 +1,10 @@
-# Annonymouse Homepage
+# Robust Instant Policy
 
-This repository contains the source for my personal research homepage, hosted at [https://leader1313.github.io/rip.github.io/](https://leader1313.github.io/rip.github.io/).
+This repository contains the project page for **Robust Instant Policy**, prepared for an anonymous submission to IEEE Transactions on Robotics (T-RO) 2026.
 
 ## Features
-- Landing page for the Annonymouse project
-- Links to papers, videos, and supplementary material
+- Overview of the Robust Instant Policy method and its results
+- Links to anonymized papers, videos, and supplementary material
 - Responsive Bulma-based layout with lightweight JS components
 
 ## Local Development
